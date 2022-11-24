@@ -1,0 +1,5 @@
+#+title: Readme
+
+See =bandpass_optimization.ipynb= for an example of calculating the half-wave
+plate polarization angle frequency dependence and the effects when taking into
+account a passband measurements.
